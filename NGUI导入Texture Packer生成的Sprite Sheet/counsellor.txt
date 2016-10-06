@@ -1,0 +1,44 @@
+{"frames": {
+
+"a/avatar.png":
+{
+	"frame": {"x":104,"y":2,"w":100,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":124},
+	"sourceSize": {"w":100,"h":124}
+},
+"a/name.png":
+{
+	"frame": {"x":206,"y":2,"w":47,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":19},
+	"sourceSize": {"w":47,"h":19}
+},
+"b/avatar.png":
+{
+	"frame": {"x":2,"y":2,"w":100,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":124},
+	"sourceSize": {"w":100,"h":124}
+},
+"b/name.png":
+{
+	"frame": {"x":206,"y":23,"w":35,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":21},
+	"sourceSize": {"w":35,"h":21}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "counsellor.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9975f05dd9e672ef93f5fc13516b0362:12d2da5f55f47ab3c08fab2885069b03:7bcaac62fae0a909062634edc5c0db60$"
+}
+}
